@@ -20,7 +20,8 @@ that running so we can test integration.
 XTS listener
 
 A simple CRUD application featuring an inbox. Maybe also a set of functions exposed through REST.
-An associated email account, maybe on Google.
+An associated email account, maybe on Google. This project is already set up as SMM (State Machine Module)
+
 
 
 Client Application: XTSClient. Downloadable from XTS_proto

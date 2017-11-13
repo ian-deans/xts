@@ -1,0 +1,69 @@
+Space Invaders (Java)
+----------------------------------------------------------------
+
+Date Started: Feb. 16, 2013
+Last Updated: April 11, 2013
+
+Status:
+Pre-Alpha
+
+Tasks:
+TO SEE UP TO DATE TASKLIST, PLEASE GO TO OFFICIAL TASKLIST
+Create Frame: DONE
+Create Updating Engine: DONE
+Create Player Mechanics: DONE
+Create Enemy Mechanics: DONE
+Create Bunker Mechanics: DONE
+Collision Testing: DONE
+Menu Screen/UI: BASICALLY DONE - Many menus need to be touched up
+Music/SFX: IN PROGRESS - main menu, levels, boss level themes done, bullet sounds done
+Graphics: IN PROGRESS - add bg, change sprites (possibly)
+Story: IN PROGRESS- added cutscenes, writing script
+Opening Screen: DONE
+Closing Screen: BASICALLY DONE
+Levels: DONE
+Hitstreaks: DONE
+Game Balancing: IN PROGRESS
+Game Testing: BARELY STARTED - 2 testers: LunacyEcho, hiseungho
+Achievements: IN PROGRESS
+Upgrades: IN PROGRESS
+
+*Game Description/Instructions here*
+
+Left arrow: Move left
+Right arrow: Move right
+Space: Fire!
+R: Redeem hit streak reward
+P: Pause/Resume game
+Enter: Start game
+
+Hit Streak Rewards Explanation:
+Hit sprees form an integral part of the game. By repeatedly striking an enemy without
+missing/hitting a bunker/getting hit, you will have a chance to get a reward!
+The better the reward, the larger the hitstreak required to redeem it is. After meeting the requirements
+for a hitstreak, the top box will turn GREEN! Press R to redeem the powerup as written. However, note that
+the requirement in the box will have changed! This means that you can continue shooting to get the next reward.
+But if you miss, you will lose everything, and your hitstreak will return to 0. If you redeem, your hitspree
+will also reset to 0.
+
+
+
+Note: Easter Eggs MAY be present
+
+IDEAS FOR UPGRADES:
+
+Firerate
+Total Health
+Speed
+Damage
+Magnet
+Chargeshot
+
+Collect material from fallen enemies
+
+Credits
+----------------------------------------------------------------
+assisstion - Programmer
+michael99man - Programmer
+LunacyEcho - Sound Manager
+dysprosium - Editor
